@@ -14,7 +14,7 @@ Este proyecto es un microservicio desarrollado con Spring Boot que permite gesti
 
 ## Cómo ejecutar el proyecto
 
-1. Clona el repositorio en tu máquina local usando `git clone [url_del_repositorio]`.
+1. Clona el repositorio en tu máquina local usando `git clone https://github.com/miguelalejandroff/springboot`.
 
 2. Navega hasta el directorio del proyecto.
 
